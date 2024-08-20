@@ -1,0 +1,15 @@
+packages:
+  darwin:
+    brews:
+    - 'lsd'
+    - 'git'
+    - 'tlrc'
+    - 'fzf'
+    - 'autojump'
+    - 'zsh-autosuggestions'
+    - 'zsh-autocomplete'
+    - 'zsh-completions'
+    - 'zsh-syntax-highlighting'
+    - 'powerlevel10k'  
+    casks:
+    - 'font-hack-nerd-font'
