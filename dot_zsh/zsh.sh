@@ -1,4 +1,8 @@
-fpath=(~/.zsh/functions $fpath)
+fpath=(
+  ~/.zsh/functions
+  /usr/local/share/zsh/site-functions 
+  $fpath
+)
 autoload load-tools load-configs
 # load custom executable tools
 load-tools "$HOME/.zsh/tools"
