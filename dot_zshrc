@@ -26,7 +26,4 @@ jdk 17
 export PATH="$HOME/.cargo/bin/:$PATH"
 
 # node version
-export PATH="/usr/local/opt/node@20/bin:$PATH"
-
-# postgresql 
-export PATH="/usr/local/opt/postgresql@16/bin:$PATH"
+export PATH="/usr/local/opt/node@22/bin:$PATH"
